@@ -1,22 +1,8 @@
 <div align="center">
-  <h1> 30 Days Of React: Custom Hooks</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
+  <h1>Custom Hooks</h1>
 </div>
 
 [<< Day 24](../24_projects/24_projects.md) | [Day 26>>](../26_Context/26_context.md)
-
-![30 Days of React banner](../images/30_days_of_react_banner_day_25.jpg)
 
 # Custom Hooks
 
@@ -215,14 +201,5 @@ ReactDOM.render(<App />, rootElement)
 ```
 
 The useState and useEffect hooks are most common React hooks which you use on daily bases. In addition to the basic hook, there are additional hooks which are not used often. You do not have to know how to use all the hooks. The useState, useEffect and useRef are very important hooks and it is recommended to know how to use them.
-
-# Exercises
-
-Note: Continue building the countries application
-
-1 Build the following application using [countries API](https://restcountries.eu/rest/v2/all).
-[DEMO](https://www.30daysofreact.com/day-23/countries-data)
-
-🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 24](../24_projects/24_projects.md) | [Day 26>>](../26_Context/26_context.md)

@@ -1,22 +1,8 @@
 <div align="center">
-  <h1> 30 Days Of React:Component Life Cycles</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
+  <h1>Component Life Cycles</h1>
 </div>
 
 [<< Day 13](../13_Day_Controlled_Versus_Uncontrolled_Input/13_uncontrolled_input.md) | [Day 15 >>](../15_Third_Party_Packages/15_third_party_packages.md)
-
-![30 Days of React banner](../images/30_days_of_react_banner_day_14.jpg)
 
 - [Component Life Cycles](#component-life-cycles)
   - [What is component life cycle](#what-is-component-life-cycle)
@@ -31,10 +17,6 @@
     - [render](#render-1)
     - [componentDidUpdate](#componentdidupdate)
   - [Unmounting](#unmounting)
-- [Exercises](#exercises)
-  - [Exercises: Level 1](#exercises-level-1)
-  - [Exercises: Level 2](#exercises-level-2)
-  - [Exercises: Level 3](#exercises-level-3)
 
 # Component Life Cycles
 
@@ -590,30 +572,5 @@ ReactDOM.render(<App />, rootElement)
 
 The final phase in the lifecycle of a component is unmounting. The unmounting phase removes component from the DOM.
 The componentWillUnmount method is the only built-in method that gets called when a component is unmounted.
-
-# Exercises
-
-## Exercises: Level 1
-
-1. What is component life cycles
-2. What is the purpose of life cycles
-3. What are the three stages of a component life cycle
-4. What does mounting means?
-5. What does updating means
-6. What does unmounting means?
-7. What is the most common built-in mounting life cycle method?
-8. What are the mounting life cycle methods?
-9. What are the updating life cycle methods?
-10. What is the unmounting life cycle method?
-
-## Exercises: Level 2
-
-Coming
-
-## Exercises: Level 3
-
-Coming
-
-🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 13](../13_Day_Controlled_Versus_Uncontrolled_Input/13_uncontrolled_input.md) | [Day 15 >>](../15_Third_Party_Packages/15_third_party_packages.md)

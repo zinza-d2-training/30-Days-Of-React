@@ -1,28 +1,10 @@
 <div align="center">
-  <h1> 30 Days Of React: Higher Order Component</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
+  <h1>Higher Order Component</h1>
 </div>
 
 [<< Day 15](../15_Third_Party_Packages/15_third_party_packages.md) | [Day 17 >>](../17_React_Router/17_react_router.md)
 
-![30 Days of React banner](../images/30_days_of_react_banner_day_16.jpg)
-
 - [Higher Order Component](#higher-order-component)
-- [Exercises](#exercises)
-  - [Exercises: Level 1](#exercises-level-1)
-  - [Exercises: Level 2](#exercises-level-2)
-  - [Exercises: Level 3](#exercises-level-3)
 
 # Higher Order Component
 
@@ -189,24 +171,5 @@ ReactDOM.render(<App />, rootElement)
 ```
 
 The is above example is one use case of Higher Order Component. However, its use case is is more than just styling simple button. It has enormous use cases, it allow us to reuse component and enhance a component with style and functionality. In the coming sections, we will cover React Router and we will use HOC and you will not be surprised when you see one component wrap another component.
-
-# Exercises
-
-## Exercises: Level 1
-
-1. What is higher order function
-2. What is Higher Order Component
-3. What is the difference between higher order function and higher order component?
-4. A higher order component can allow us to enhance a component. (T or F)
-
-## Exercises: Level 2
-
-1. Make a higher order component which can handle all the input type.
-
-## Exercises: Level 3
-
-coming
-
-🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 15](../15_Third_Party_Packages/15_third_party_packages.md) | [Day 17 >>](../17_React_Router/17_react_router.md)

@@ -1,30 +1,12 @@
 <div align="center">
-  <h1> 30 Days Of React: Fetch and Axios</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
+  <h1>Fetch and Axios</h1>
 </div>
 
 [<< Day 17](../17_React_Router/17_react_router.md) | [Day 19>>]()
 
-![30 Days of React banner](../images/30_days_of_react_banner_day_18.jpg)
-
 - [Fetch and Axios](#fetch-and-axios)
   - [Fetch](#fetch)
   - [Axios](#axios)
-- [Exercises](#exercises)
-  - [Exercises: Level 1](#exercises-level-1)
-  - [Exercises: Level 2](#exercises-level-2)
-  - [Exercises: Level 3](#exercises-level-3)
 
 # Fetch and Axios
 
@@ -417,30 +399,5 @@ ReactDOM.render(<App />, rootElement)
 ```
 
 As you have seen, there is no much difference between fetch and axios. But I recommend you to use more axios than fetch because of browser support and easy of use.
-
-# Exercises
-
-## Exercises: Level 1
-
-1. What is HTTP request?
-2. What are the most common HTTP requests?
-3. What is fetch?
-4. What is axios?
-5. What is the difference between fetch and axios?
-6. Do you prefer fetch to axios for make HTTP requests?
-
-## Exercises: Level 2
-
-1. Find the average metric weight and life span of cats in the following [API](https://api.thecatapi.com/v1/breeds). There are 67 breeds of cats in the API.
-
-![Average cat weight and age](../images/average_cat_weight_and_age.png)
-
-## Exercises: Level 3
-
-1. How many countries do have cat breeds?
-2. Which country has the highest number of cat breeds?
-3. Arrange countries in ascending order based on the number of cat breeds they have?
-
-🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 17](../17_React_Router/17_react_router.md) | [Day 19>>]()

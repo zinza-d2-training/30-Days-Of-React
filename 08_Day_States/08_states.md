@@ -1,31 +1,13 @@
 <div align="center">
-  <h1> 30 Days Of React: States</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
+  <h1>States</h1>
 </div>
 
 [<< Day 7](../07_Day_Class_Components/07_class_components.md) | [Day 9 >>](../09_Day_Conditional_Rendering/09_conditional_rendering.md)
-
-![30 Days of React banner](../images/30_days_of_react_banner_day_8.jpg)
 
 - [States](#states)
   - [What is State?](#what-is-state)
   - [How to set a state](#how-to-set-a-state)
   - [Resetting a state using a JavaScript method](#resetting-a-state-using-a-javascript-method)
-  - [Exercises](#exercises)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-    - [Exercises: Level 3](#exercises-level-3)
 
 # States
 
@@ -483,31 +465,5 @@ ReactDOM.render(<App />, rootElement)
 ```
 
 I believe that now you have a very good understanding of state. After this, we will use state in other sections too because state and props is the core of a react application.
-
-## Exercises
-
-### Exercises: Level 1
-
-1. What was your state today? Are you happy? I hope so. If you manage to make it this far you should be happy.
-2. What is state in React ?
-3. What is the difference between props and state in React ?
-4. How do you access state in a React component ?
-5. How do you set a set in a React component ?
-
-### Exercises: Level 2
-
-1. Use React state to change the background of the page. You can use this technique to apply a dark mode for your portfolio.
-
-![Change Background](../images/08_day_changing_background_exercise.gif)
-
-2.  After long time of lock down, you may think of travelling and you do not know where to go. You may be interested to develop a random country selector that selects your holiday destination.
-
-![Change Background](../images/08_day_select_country_exercise.gif)
-
-### Exercises: Level 3
-
-Coming
-
-🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 7](../07_Day_Class_Components/07_class_components.md) | [Day 9 >>](../09_Day_Conditional_Rendering/09_conditional_rendering.md)

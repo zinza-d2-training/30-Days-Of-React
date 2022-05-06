@@ -1,22 +1,8 @@
 <div align="center">
-  <h1> 30 Days Of React: Fetching Data Using Hooks</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
+  <h1>Fetching Data Using Hooks</h1>
 </div>
 
 [<< Day 22](../22_Form_Using_Hooks/22_form_using_hooks.md) | [Day 24>>](../24_projects/24_projects.md)
-
-![30 Days of React banner](../images/30_days_of_react_banner_day_23.jpg)
 
 - [Introducing React Hook](#introducing-react-hook)
   - [Basic Hooks](#basic-hooks)
@@ -24,8 +10,6 @@
     - [Effect Hook](#effect-hook)
     - [Context Hook](#context-hook)
   - [Additional Hook](#additional-hook)
-- [Exercises](#exercises)
-  - [Exercises: Level 1](#exercises-level-1)
 
 # Fetching Data Using Hooks
 
@@ -91,9 +75,5 @@ const App = (props) => {
 const rootElement = document.getElementById('root')
 ReactDOM.render(<App />, rootElement)
 ```
-
-# Exercises
-
-🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 22](../22_Form_Using_Hooks/22_form_using_hooks.md) | [Day 24>>](../24_projects/24_projects.md)

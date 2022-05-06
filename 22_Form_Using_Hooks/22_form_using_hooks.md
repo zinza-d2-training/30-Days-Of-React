@@ -1,22 +1,8 @@
 <div align="center">
-  <h1> 30 Days Of React: Form Using React Hooks</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
+  <h1>Form Using React Hooks</h1>
 </div>
 
 [<< Day 21](../21_Introducing_Hooks/21_introducing_hooks.md) | [Day 23>>](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md)
-
-![30 Days of React banner](../images/30_days_of_react_banner_day_22.jpg)
 
 - [Introducing React Hook](#introducing-react-hook)
   - [Basic Hooks](#basic-hooks)
@@ -24,9 +10,6 @@
     - [Effect Hook](#effect-hook)
     - [Context Hook](#context-hook)
   - [Additional Hook](#additional-hook)
-- [Exercises](#exercises)
-  - [Exercises: Level 1](#exercises-level-1)
-
 # Forms
 
 Form is used to collect data from a user. Once in a while we use form to fill our information on a paper or on a website. Either to sign up, sign in or to apply for a job, we fill different form fields to submit our data to remote database. We encounter different form fields when we fill a form such as simple text, email, password, telephone, date, checkbox, radio button, option selection and text area field. Currently, HTML5 has provide quite a lot of field types. You may have a look at the following available HTML5 input types.
